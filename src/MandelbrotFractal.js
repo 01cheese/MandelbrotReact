@@ -258,13 +258,13 @@ const MandelbrotCanvas = () => {
                         fontFamily: "monospace",
                         maxWidth: 300
                     }}>
-                        🔍 <strong style={{ color: "#fff" }}>Guide:</strong><br />
-                        • jskjksj<br />
-                        • sdfsdfsd<br />
-                        • sdfsdfjhsdifuh<br />
-                        • wuhfisdufhisduf<br />
-                        • Quwuhfisdufhisduf
-                    </div>
+                        <strong style={{ color: "#fff" }}>Guide:</strong><br />
+    • Scroll — Zoom In / Out<br />
+    • Drag — Move the fractal<br />
+    • Reset — Restore default view<br />
+    • Slider — Adjust render quality<br />
+    • Download — Save as PNG<br />
+    • Rendering time depends on zoom & quality
                 )}
 
 
